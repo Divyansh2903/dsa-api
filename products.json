@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Niyo X",
+            "payout": "Earn upto ₹175",
+            "link": "https://bs.gotrackier.com/click?campaign_id=13&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://coupontricks.in/wp-content/uploads/2021/05/0-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "JANA Savings Bank",
+            "payout": "Earn upto ₹100",
+            "link": "https://bs.gotrackier.com/click?campaign_id=12&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://www.janabank.com/images/gn6.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Fi Money",
+            "payout": "Earn upto ₹100",
+            "link": "https://bs.gotrackier.com/click?campaign_id=11&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://www.coolztricks.com/wp-content/uploads/2021/08/unnamed-5.png"
+        },
+        {
+            "id": 4,
+            "name": "Freecharge",
+            "payout": "Earn upto ₹300",
+            "link": "https://bs.gotrackier.com/click?campaign_id=7&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "http://www.cashbackrewards.in/wp-content/uploads/2017/10/Freecharge-Online-Recharge-and-Bill-Payment-Cashback-Discount-Offers.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Upstox Demat Account",
+            "price": "Earn upto ₹400",
+            "link": "https://bs.gotrackier.com/click?campaign_id=6&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://jaanoaurseekho.com/wp-content/uploads/2019/04/upstox-image.png"
+        },
+        {
+            "id": 6,
+            "name": "Bajaj Instant EMI",
+            "payout": "Earn upto ₹100",
+            "link": "https://bs.gotrackier.com/click?campaign_id=3&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://www.bajajfinservmarkets.in/discover/wp-content/uploads/2020/05/emi-card3.png"
+        }
+    ]
+}
