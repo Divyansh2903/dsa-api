@@ -31,7 +31,7 @@
         {
             "id": 5,
             "name": "Upstox Demat Account",
-            "price": "Earn upto ₹400",
+            "payout": "Earn upto ₹400",
             "link": "https://bs.gotrackier.com/click?campaign_id=6&pub_id=10&p1={your-transaction-id}&source=",
             "image": "https://jaanoaurseekho.com/wp-content/uploads/2019/04/upstox-image.png"
         },
