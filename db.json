@@ -6,8 +6,8 @@
             "payout": "Earn upto ₹175",
             "link": "https://bs.gotrackier.com/click?campaign_id=13&pub_id=10&p1={your-transaction-id}&source=",
             "image": "https://coupontricks.in/wp-content/uploads/2021/05/0-1.jpg",
-            "cardimage":"https://www.goniyo.com/wp-content/uploads/2021/04/Logos_for-web-NiyoX.png"
-            
+            "cardimage":"https://www.goniyo.com/wp-content/uploads/2021/04/Logos_for-web-NiyoX.png",
+            "howto":"• Watch the training video• Share the link with your customers• Ask your customer to click on the shared link toopen their saving account with NiyoX App• Your commission will be reflect in your walletwithin 10 working Days after account has been opened"
             
         },
         {
@@ -16,7 +16,8 @@
             "payout": "Earn upto ₹100",
             "link": "https://bs.gotrackier.com/click?campaign_id=12&pub_id=10&p1={your-transaction-id}&source=",
             "image": "https://www.janabank.com/images/gn6.jpg",
-            "cardimage":"https://exchange4media.gumlet.io/news-photo/109948-janasmallfinancebank.jpg?format=webp&w=400&dpr=2.6"
+            "cardimage":"https://exchange4media.gumlet.io/news-photo/109948-janasmallfinancebank.jpg?format=webp&w=400&dpr=2.6",
+            "howto":" "
         },
         {
             "id": 3,
@@ -24,7 +25,8 @@
             "payout": "Earn upto ₹100",
             "link": "https://bs.gotrackier.com/click?campaign_id=11&pub_id=10&p1={your-transaction-id}&source=",
             "image": "https://www.coolztricks.com/wp-content/uploads/2021/08/unnamed-5.png",
-            "cardimage":"https://alphafirms.in/wp-content/uploads/2021/06/fi-money-logo.png"
+            "cardimage":"https://alphafirms.in/wp-content/uploads/2021/06/fi-money-logo.png",
+            "howto":" "
         },
         {
             "id": 4,
@@ -32,7 +34,8 @@
             "payout": "Earn upto ₹300",
             "link": "https://bs.gotrackier.com/click?campaign_id=7&pub_id=10&p1={your-transaction-id}&source=",
             "image": "http://www.cashbackrewards.in/wp-content/uploads/2017/10/Freecharge-Online-Recharge-and-Bill-Payment-Cashback-Discount-Offers.jpg",
-            "cardimage":"https://upload.wikimedia.org/wikipedia/commons/9/90/FreeCharge_Logo.png"
+            "cardimage":"https://upload.wikimedia.org/wikipedia/commons/9/90/FreeCharge_Logo.png",
+            "howto":" "
         },
         {
             "id": 5,
@@ -40,7 +43,8 @@
             "payout": "Earn upto ₹400",
             "link": "https://bs.gotrackier.com/click?campaign_id=6&pub_id=10&p1={your-transaction-id}&source=",
             "image": "https://jaanoaurseekho.com/wp-content/uploads/2019/04/upstox-image.png",
-            "cardimage":"https://play-lh.googleusercontent.com/PngOP2u2-gAL4-NuhAXMDHKoDIhfZ8MNQs5j3PyyPFn-8Ytnofp_qsN6z3m8QGsV1MU"
+            "cardimage":"https://play-lh.googleusercontent.com/PngOP2u2-gAL4-NuhAXMDHKoDIhfZ8MNQs5j3PyyPFn-8Ytnofp_qsN6z3m8QGsV1MU",
+            "howto":" "
         },
         {
             "id": 6,
@@ -48,7 +52,8 @@
             "payout": "Earn upto ₹100",
             "link": "https://bs.gotrackier.com/click?campaign_id=3&pub_id=10&p1={your-transaction-id}&source=",
             "image": "https://www.bajajfinservmarkets.in/discover/wp-content/uploads/2020/05/emi-card3.png",
-            "cardimage":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Bajaj-Finserv-Logo.jpg"
+            "cardimage":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Bajaj-Finserv-Logo.jpg",
+            "howto":" "
         }
     ]
 }
