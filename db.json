@@ -108,6 +108,17 @@
             "carddesc":"Simple, instant and fully digital process ,Instant Approval ,Minimum Documentation",
             "sharedesc":"Basic Eligibility: KYC, Salary Slip and 6 month Original digital PDF Bank statement. Apply Now!! *Click the Link Now:"
 
+        },
+         {
+            "id": 11,
+            "name": "Hitachi WLA ATM",
+            "payout": "Earn ₹5000",
+            "link": "http://apnaatm.com/hitachi-atm-or-crm-installation-request-form/",
+            "image": "https://i.ytimg.com/vi/MWb4Xe3XoQI/maxresdefault.jpg",
+            "cardimage":"https://www.hitachi-payments.com/images/Money-spot.jpg",
+            "carddesc":"Hitachi Money Spot ATMs: Empowering Citizens through improved payment infrastructure",
+            "sharedesc":"Cash withdrawal facility,Cash Deposit facility ,Balance enquiry,Mini Statement and Perform card-card money transfers across banks. Apply Now!! *Click the Link Now:"
+
         }
        
     ]
