@@ -69,7 +69,7 @@
             "id": 7,
             "name": "IIFL Personal Loans",
             "payout": "Earn upto 1.5%",
-            "link": "https://d0l.in/B/YrYxuYS/n/BBu",
+            "link": "https://d0l.in/B/YrYxuYS/n/BBu?utm_source=partner&utm_medium=banner&utm_campaign=iifl-personal-loan&utm_id=14&utm_term=click&utm_content=",
             "image": "https://play-lh.googleusercontent.com/Ct52urirNEP0lv5zug3hBvAgNrqZBs1wXQJvshfN0DcCeGcXNghg2tRZd7ObI_uyU88",
             "cardimage":"https://content.indiainfoline.com/_media/iifl/img/article/2020-01/28/full/1580205051-6892.jpg",
             "carddesc":"Simple, instant and fully digital process ,Instant Approval ,Minimum Documentation",
@@ -80,7 +80,7 @@
             "id": 8,
             "name": "IIFL Business Loans",
             "payout": "Earn upto 1.5%",
-            "link": "https://d0l.in/B/YrYxuYS/x/BBu",
+            "link": "https://d0l.in/B/YrYxuYS/x/BBu?utm_source=partner&utm_medium=banner&utm_campaign=iifl-bussiness-loan&utm_id=15&utm_term=click&utm_content=",
             "image": "https://img.etimg.com/photo/msid-86961427,quality-100/loan2.jpg",
             "cardimage":"https://content.indiainfoline.com/_media/iifl/img/article/2020-01/28/full/1580205051-6892.jpg",
             "carddesc":"Simple, instant and fully digital process ,Instant Approval ,Minimum Documentation",
@@ -91,9 +91,9 @@
             "id": 9,
             "name": "Money Tap Loans",
             "payout": "Earn upto 1.5%",
-            "link": "https://d0l.in/B/YrYxuYS/n/BnE",
+            "link": "https://d0l.in/B/YrYxuYS/n/BnE?utm_source=partner&utm_medium=banner&utm_campaign=moneytap-personal-loan&utm_id=13&utm_term=click&utm_content=",
             "image":"https://www.moneytap.com/images/home-page-og-pic.jpg",
-            "cardimage":"https://static.startuptalky.com/2021/09/MoneyTap-logo-startuptalky.jpg",
+            "cardimage":"https://play-lh.googleusercontent.com/IDp1WAvLScC14vPjLJ6qSxi6plXC9-Xq4JogQuXb9o03OA8KVBrt5N7cS0sncpsig5I",
             "carddesc":"Simple, instant and fully digital process ,Instant Approval ,Minimum Documentation",
             "sharedesc":"Basic Eligibility: KYC, Net Salary require Above 15k/Month, Salary Must be in Bank account. Apply Now!! *Click the Link Now:"
 
@@ -102,7 +102,7 @@
             "id": 10,
             "name": "Bajaj Finserv Loans",
             "payout": "Earn upto 1.5%",
-            "link": "https://d0l.in/B/YrYxuYS/n/BYB",
+            "link": "https://d0l.in/B/YrYxuYS/n/BYB?utm_source=partner&utm_medium=banner&utm_campaign=bajajfinance-personal-loan&utm_id=12&utm_term=click&utm_content=",
             "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bajaj-Finserv-Logo.jpg",
             "cardimage":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Bajaj-Finserv-Logo.jpg",
             "carddesc":"Simple, instant and fully digital process ,Instant Approval ,Minimum Documentation",
@@ -113,10 +113,43 @@
             "id": 11,
             "name": "Hitachi WLA ATM",
             "payout": "Earn ₹5000",
-            "link": "http://apnaatm.com/hitachi-atm-or-crm-installation-request-form/",
-            "image": "https://i.ytimg.com/vi/MWb4Xe3XoQI/maxresdefault.jpg",
-            "cardimage":"https://www.hitachi-payments.com/images/Money-spot.jpg",
+            "link": "http://apnaatm.com/hitachi-atm-or-crm-installation-request-form/?utm_source=partner&utm_medium=banner&utm_campaign=hitachi_wla_atm&utm_id=11&utm_term=click&utm_content=",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E22AQE8DUm69mMWQw/feedshare-shrink_2048_1536/0/1639654127139?e=1643241600&v=beta&t=yVWTQvsfpsrTY_NS6znEzO_JkOphiE4KqJYZWqRfh18",
+            "cardimage":"https://i.ibb.co/Yt44RPF/hitachi-logo.jpg",
             "carddesc":"Hitachi Money Spot ATMs: Empowering Citizens through improved payment infrastructure",
+            "sharedesc":"Cash withdrawal facility,Cash Deposit facility ,Balance enquiry,Mini Statement and Perform card-card money transfers across banks. Apply Now!! *Click the Link Now:"
+
+        },
+        {
+            "id": 12,
+            "name": "Hitachi MICRO ATM",
+            "payout": "Earn ₹1000",
+            "link": "http://apnaatm.com/micro-atm-retail-partner-registration-form/?utm_source=partner&utm_medium=banner&utm_campaign=hitachi_micro_atm&utm_id=10&utm_term=click&utm_content=",
+            "image": "https://www.mobiletransaction.org/wp-content/uploads/2019/06/what-is-smart-terminals.jpg.webp",
+            "cardimage":"https://www.thebarcodewarehouse.co.uk/Images/Product/Default/xlarge/PAX-A920.jpg",
+            "carddesc":"Hitachi Money Spot ATMs: Empowering Citizens through improved payment infrastructure",
+            "sharedesc":"Cash withdrawal facility,Cash Deposit facility ,Balance enquiry,Mini Statement and Perform card-card money transfers across banks. Apply Now!! *Click the Link Now:"
+
+        },
+         {
+            "id": 13,
+            "name": "GROWW",
+            "payout": "Earn ₹200",
+            "link": "https://bs.gotrackier.com/click?campaign_id=15&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://wp-asset.groww.in/wp-content/uploads/2020/11/10140215/mf-after-content-banner-min.jpg",
+            "cardimage":"https://www.wrock.org/wp-content/uploads/2020/10/groww-png.png",
+            "carddesc":"Open Free Demat Account. Trusted by Millions of Indians",
+            "sharedesc":"Open your Demat & Trading account with GROWW, India's Fastest & Leading reliable platform. Investment that will make your grow. Within 5 min get your GROWW Demat Account open. Tap the Link Now:"
+
+        },
+         {
+            "id": 14,
+            "name": "HDFC SECURITIES",
+            "payout": "Earn ₹800",
+            "link": "https://bs.gotrackier.com/click?campaign_id=16&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://www.hdfcsec.com/hsl.images/Creative-61_Banner-202112240913446462356.jpg",
+            "cardimage":"https://www.hdfcsec.com/hsl.images/HSL_20_For%20Dark%20Background_PNG-202105110913201088239.png",
+            "carddesc":"Open Free Demat Account. Trusted by Millions of Indians",
             "sharedesc":"Cash withdrawal facility,Cash Deposit facility ,Balance enquiry,Mini Statement and Perform card-card money transfers across banks. Apply Now!! *Click the Link Now:"
 
         }
