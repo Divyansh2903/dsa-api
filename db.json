@@ -141,6 +141,17 @@
             "carddesc":"Open Free Demat Account. Trusted by Millions of Indians",
             "sharedesc":"Open your Demat & Trading account with GROWW, India's Fastest & Leading reliable platform. Investment that will make your grow. Within 5 min get your GROWW Demat Account open. Tap the Link Now:"
 
+        },
+        {
+            "id": 14,
+            "name": "HDFC SECURITIES",
+            "payout": "Earn ₹800",
+            "link": "https://bs.gotrackier.com/click?campaign_id=16&pub_id=10&p1={your-transaction-id}&source=",
+            "image": "https://www.hdfcsec.com/hsl.images/Creative-61_Banner-202112240913446462356.jpg",
+            "cardimage":"https://www.hdfcsec.com/hsl.images/HSL_20_For%20Dark%20Background_PNG-202105110913201088239.png",
+            "carddesc":"Open Free Demat Account. Trusted by Millions of Indians",
+            "sharedesc":"Cash withdrawal facility,Cash Deposit facility ,Balance enquiry,Mini Statement and Perform card-card money transfers across banks. Apply Now!! *Click the Link Now:"
+
         }
        
     ]
